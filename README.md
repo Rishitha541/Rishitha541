@@ -1,10 +1,10 @@
 ## Hi, I'm [Rishitha] ✨
 
-🎓 CSE Student with AI & ML specialization from SR Uinversity
-🧠 Interested in LLMs, agents, and building intelligent systems
-🛠️ I enjoy fine-tuning models and designing AI-powered apps
-🌱 Currently exploring [Rag Pipeleines, Prompt Engineering and LLMs]
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishitha-gangidi-040156295/) or [Email](mailto:rishithagangidi@email.com)
+-🎓 CSE Student with AI & ML specialization from SR Uinversity<br/>
+-🧠 Interested in LLMs, agents, and building intelligent systems<br/>
+-🛠️ I enjoy fine-tuning models and designing AI-powered apps<br/>
+-🌱 Currently exploring [Rag Pipeleines, Prompt Engineering and LLMs]<br/>
+-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rishitha-gangidi-040156295/) or [Email](mailto:rishithagangidi@email.com)<br/>
 
 
 # 💻 Tech Stack:
@@ -13,8 +13,3 @@
 ![](https://github-readme-stats.shion.dev/api?username=Rishitha541&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Rishitha541&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rishitha541&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Rishitha541&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
