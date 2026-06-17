@@ -1,4 +1,4 @@
-## Hi, I'm [Rishitha] ✨
+## Hi, I'm Rishitha ✨
 
 -🎓 CSE Student with AI & ML specialization from SR Uinversity<br/>
 -🧠 Interested in LLMs, agents, and building intelligent systems<br/>
