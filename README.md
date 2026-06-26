@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rishitha ✨<br>🎓 CSE Student with AI & ML specialization from SR Uinversity<br>🧠 Interested in LLMs, agents, and building intelligent systems<br>🛠️ I enjoy fine-tuning models and designing AI-powered apps<br>🌱 Currently exploring [Rag Pipeleines, Prompt Engineering and LLMs]<br>📫 Reach me on LinkedIn or Email
+Hi, I'm Rishitha ✨<br>🎓 CSE Student with AI & ML specialization from SR Uinversity<br>🧠 Interested in LLMs, agents, and building intelligent systems<br>🛠️ I enjoy fine-tuning models and designing AI-powered apps<br>🌱 Currently exploring [Rag Pipeleines, Prompt Engineering and LLMs]
 
 
 ## 🌐 Socials:
