@@ -15,7 +15,3 @@ Hi, I'm Rishitha ✨<br>🎓 CSE Student with AI & ML specialization from SR Uin
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=Rishitha541&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
